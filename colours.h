@@ -1,0 +1,19 @@
+// colours.h
+
+// RRGGBB
+
+#define BLACK  0X000000
+#define BROWN  0X6B3C3C
+#define RED    0XFF0000
+#define ORANGE 0XFF7F00
+#define YELLOW 0XFFFF12
+#define GREEN  0X00FF00
+#define BLUE   0X0000FF
+#define VIOLET 0XD503FF
+#define GREY   0X7F7F7F
+#define WHITE  0XFFFFFF
+
+#define LIGHT_GREEN 0X99FF66
+#define CYAN  0X99FFFF
+
+#define LIGHT_BLUE 0X00FFFF
